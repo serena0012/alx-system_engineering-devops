@@ -1,1 +1,1 @@
-A script that creates an empty file called hello
+A script that prints the effective username of the current user.
