@@ -1,1 +1,2 @@
-Empty files.
+#!/bin/bash
+paste - -|cut -f1
