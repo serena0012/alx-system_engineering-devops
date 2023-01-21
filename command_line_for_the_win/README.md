@@ -7,8 +7,8 @@ As each task is completed, the name of that task will turn green
 Create a screenshot, showing that you completed the required levels
 Push this screenshot with the right name to Github, in either the PNG or JPEG format.
 
-More Info
+## More Info ##
 
-Manual QA Review
+## Manual QA Review ##
 
 It is your responsibility to request a review for this project from a peer. If no peers have been reviewed, you should request a review from a TA or staff member.
