@@ -1,1 +1,1 @@
-A script that switches the current user to the user betty.
+0x08. Networking basics #1
