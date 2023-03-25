@@ -36,6 +36,7 @@ Host *
 #   IdentityFile ~/.ssh/id_rsa
 #   IdentityFile ~/.ssh/id_dsa
     IdentityFile ~/.ssh/school
+    IdentityFile ~/.ssh/serena.pub
 #   Port 22
 #   Protocol 2,1
 #   Cipher 3des
