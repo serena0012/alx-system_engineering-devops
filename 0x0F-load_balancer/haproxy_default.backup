@@ -1,0 +1,15 @@
+
+defaults
+  mode http
+  timeout client 15s
+  timeout connect 10s
+  timeout server 15s
+  timeout http-request 10s
+frontend th3gr00t-tech-frontend
+    bind *:80
+    default_backend th3gr00t-tech-backend
+backend th3gr00t-tech-backend
+    balance roundrobin
+    server 129283-web-01 52.3.242.170:80 check
+    server 129283-web-02 54.144.250.147:80 check
+
